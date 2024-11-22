@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+  },
+  "include": ["./node_modules/cypress", "cypress/**/*.ts"]
+}

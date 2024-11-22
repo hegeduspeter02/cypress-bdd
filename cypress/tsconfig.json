@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "../node_modules",
+    "target": "es5",
+    "lib": [
+      "es2019",
+      "dom"
+    ],
+    "types": [
+      "cypress",
+      "node"
+    ],
+    "resolveJsonModule": true,
+    "downlevelIteration": true
+  },
+}
